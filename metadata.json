@@ -1,0 +1,7 @@
+{
+  "name": "Smart Course Recommendation System",
+  "description": "An intelligent learning platform recommending personalized courses based on goals, topics, skill level, and format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
